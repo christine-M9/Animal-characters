@@ -2,7 +2,8 @@
 
   ## Description:
 <!-- This project is able to display the following using THE GET REQUEST. -->
-   1.Making a GET request to the following endpoint to retrieve the character data.
+
+   1. Making a GET request to the following endpoint to retrieve the character data.
  GET /characters
 
 Example Response:
@@ -37,7 +38,9 @@ Example Response:
      "votes": 0
 
    },
-   3.When viewing an animal’s details, you can add the number of votes for each animal. This number of votes will be displayed together with the animal’s details.
+
+
+   3. When viewing an animal’s details, you can add the number of votes for each animal. This number of votes will be displayed together with the animal’s details.
    <!-- Click on the Upvote button to add the number of votes -->
 
 
@@ -60,16 +63,21 @@ Example Response:
 
   ## Technology used:
 
-  HTML
-  JAVASCRIPT
-  JSON
-  CSS
+ 1. HTML
+
+ 2. JAVASCRIPT
+
+ 3. JSON
+
+ 4. CSS
 
 
   ## Author:
 
 This project's author is;
+
  Christine K Juma.
+
 https://github.com/christine-M9
 
 
